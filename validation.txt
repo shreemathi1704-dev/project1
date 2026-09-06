@@ -1,0 +1,12 @@
+dataset/train/Tomato_Early_Blight/
+    001.jpg
+    002.jpg
+    003.jpg
+dataset/train/Tomato_Late_Blight/
+    001.jpg
+    002.jpg
+    003.jpg
+dataset/train/Tomato_Healthy/
+    001.jpg
+    002.jpg
+    003.jpg
